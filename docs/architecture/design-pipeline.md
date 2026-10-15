@@ -50,3 +50,4 @@ flowchart LR
     OrderLines --> SalesByProduct
     CustomerSummary --> Dashboard
     SalesByProduct --> Dashboard
+```
