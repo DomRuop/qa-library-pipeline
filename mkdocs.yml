@@ -22,7 +22,7 @@ theme:
     static_templates:
       - 404.html
     palette:
-      primary: indigo
+      primary: teal
       accent: indigo
 
 # Extensions
